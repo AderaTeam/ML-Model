@@ -1,1 +1,1 @@
-all_in_one - https://drive.google.com/file/d/11RBTIjPwT5aXAaUf2QqlzDOZJ4QWv8Sk/view?usp=drive_link
+all_in_one - https://drive.google.com/drive/folders/1Ns7A_zypFIdr3d9ElAhRvyWjO8gjTUZh?usp=sharing
