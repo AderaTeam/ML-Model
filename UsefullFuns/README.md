@@ -1,5 +1,5 @@
 # mod_user_for_predict
-```mod_user_for_predict(a, gdps, space, classificator, create_vector_user)``` - создаёт вектор клиента, где
+```mod_user_for_predict(a, gdps, space, classificator, create_vector_user, time_aproximator)``` - создаёт вектор клиента, где
 - 1 параметр вектора - это класс юзера;
 - 2-100 - npo_sum по времени уравновешанные фильтром;
 - 101-201 - значения ВВП в данный период.
@@ -11,6 +11,7 @@
     - gdv - значение ВВП в млн. руб.
 - classificator - классификатор для пользователя;
 - create_vector_user - векторизатор пользователя.
+- time_aproximator - уравнитель по времени
 
 
 # create_vector_user
