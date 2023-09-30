@@ -12,3 +12,4 @@ sweetviz
 transformers
 spacy
 dill
+catboost
